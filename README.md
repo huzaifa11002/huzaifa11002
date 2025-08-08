@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Huzaifa Khan</h1>
-<h3 align="center">A passionate Frontend Developer from Karachi, driven by creativity and a love for innovative technology. I enjoy solving bugs — every challenge is a step toward growth.</h3>
+<h1 align="left">Hello, I'm Huzaifa Khan</h1>
+<h3 align="left">A passionate Frontend Developer from Karachi, driven by creativity and a love for innovative technology. I enjoy solving bugs — every challenge is a step toward growth.</h3>
 
 - 🔭 I’m currently working on [Influenca Marketing Agency](http://influenca.services/)
 
